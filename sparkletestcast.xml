@@ -4,11 +4,11 @@
         <title>TunnelBear</title>
         <item>
             <title>5.0.0</title>
-            <pubDate>Wed, 11 May 2022 13:45:27 -0400</pubDate>
+            <pubDate>Wed, 11 May 2022 14:10:24 -0400</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="TunnelBear.zip" length="38740114" type="application/octet-stream" sparkle:edSignature="RxUSuP8yRujpOZ3E+eV30fVAxnQIEOkiimVNYLDe8mEHFZm8LRNQPoqqhXsVRbTCy83H6u1RxL3RJooES0M5BA=="/>
+            <enclosure url="TunnelBear.zip" length="38710582" type="application/octet-stream" sparkle:edSignature="SsHtR8B4G3faDa4d+vgCb0HmxXYIrS0E++d56cFJZhnX3AHm4zqe7E0NPNR1MO5a0Jq5eU/DBTUvEp7dospuAw=="/>
         </item>
     </channel>
 </rss>
