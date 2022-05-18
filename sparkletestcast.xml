@@ -3,12 +3,12 @@
     <channel>
         <title>TunnelBear</title>
         <item>
-            <title>5.0.0</title>
-            <pubDate>Wed, 11 May 2022 14:10:24 -0400</pubDate>
-            <sparkle:version>300</sparkle:version>
-            <sparkle:shortVersionString>50.0.0</sparkle:shortVersionString>
+            <title>4.9.9</title>
+            <pubDate>Wed, 18 May 2022 11:49:29 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>4.9.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="TunnelBear.zip" length="38710582" type="application/octet-stream" sparkle:edSignature="SsHtR8B4G3faDa4d+vgCb0HmxXYIrS0E++d56cFJZhnX3AHm4zqe7E0NPNR1MO5a0Jq5eU/DBTUvEp7dospuAw=="/>
+            <enclosure url="https://github.com/vladimircezar/raw/blob/main/TunnelBear.zip" length="38733808" type="application/octet-stream" sparkle:edSignature="FGhbnfBiHTs3/JE/PlDnnoeKSlXIqlg9a/oA5U5TFiYuY0loK1i2ZZFbLQLOe3apP67uh+EiIJPlRtkOLGAlAw=="/>
         </item>
     </channel>
 </rss>
