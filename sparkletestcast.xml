@@ -8,7 +8,7 @@
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>4.9.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vladimircezar/raw/blob/main/TunnelBear.zip" length="38733808" type="application/octet-stream" sparkle:edSignature="FGhbnfBiHTs3/JE/PlDnnoeKSlXIqlg9a/oA5U5TFiYuY0loK1i2ZZFbLQLOe3apP67uh+EiIJPlRtkOLGAlAw=="/>
+            <enclosure url="https://www.dropbox.com/s/n9jjbxya0mpf2n8/TunnelBear.zip?dl=1" length="38733808" type="application/octet-stream" sparkle:edSignature="FGhbnfBiHTs3/JE/PlDnnoeKSlXIqlg9a/oA5U5TFiYuY0loK1i2ZZFbLQLOe3apP67uh+EiIJPlRtkOLGAlAw=="/>
         </item>
     </channel>
 </rss>
