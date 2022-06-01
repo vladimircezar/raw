@@ -27,7 +27,7 @@
               sparkle:edSignature="sLrfK4t/0UN/qmzsHYfP8S0v1591mRpo8BLejpR8VPC9/d/T0sesPKsYcqDwW0yPcY5sJHi2umcwbRcq7qNMBw=="
             />
             <sparkle:deltas>
-                <enclosure url="//TunnelBear-4.9.9499-498.delta"
+                <enclosure url="https://s3.amazonaws.com/tunnelbear/downloads/mac/TunnelBear-4.9.9499-498.delta"
                   sparkle:deltaFrom="498"
                   length="30042"
                   type="application/octet-stream"
