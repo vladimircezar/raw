@@ -3,18 +3,6 @@
     <channel>
         <title>TunnelBear</title>
         <item>
-            <title>4.1.8</title>
-            <pubDate>Tue, 31 May 2022 10:06:59 -0400</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>4.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure
-              url="https://s3.amazonaws.com/tunnelbear/downloads/mac/TunnelBear-4.1.8.zip"
-              length="33737494"
-              type="application/octet-stream"
-            />
-        </item>
-        <item>
             <title>4.9.9</title>
             <pubDate>Wed, 01 Jun 2022 13:31:13 -0400</pubDate>
             <sparkle:version>499</sparkle:version>
